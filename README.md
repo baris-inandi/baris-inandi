@@ -1,7 +1,11 @@
-[![Profile](https://github-readme-stats.vercel.app/api?username=baris-inandi&show_icons=false&border_color=444C56&border_radius=6&bg_color=22272E&title_color=539bf5&text_color=cdd9e5&icon_color=EC775C)](#)
+<p align="left">
+  
+[![Profile](https://github-readme-stats.vercel.app/api?username=baris-inandi&show_icons=true&border_color=444C56&border_radius=6&bg_color=22272E&title_color=539bf5&text_color=cdd9e5&icon_color=EC775C)](#)
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=barisinandi&border_color=444C56&border_radius=6&bg_color=22272E&title_color=539bf5&text_color=cdd9e5&icon_color=EC775C&hide=html,css&langs_count=5&custom_title=Last%20Week)](#)
 
+ </p> 
+ 
 <p align="left">
   Connect with me on &nbsp; --> &nbsp;&nbsp;
         <a href="https://linkedin.com/in/barış-inandıoğlu-250813218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış-inandıoğlu-250813218" height="16" width="32" /></a>
