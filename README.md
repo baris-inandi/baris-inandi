@@ -23,10 +23,10 @@
   <a href='https://tailwindcss.com' target="_blank">
     <br>
 <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a>
+  <a href='https://flask.palletsprojects.com/' target="_blank">
+<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white&color=282828"/> </a>
   <a href='https://jquery.com' target="_blank">
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> </a>
-  <a href='https://flask.palletsprojects.com/' target="_blank">
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> </a>
   <a href='https://sass-lang.com/' target="_blank">
     <br>
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> </a>
