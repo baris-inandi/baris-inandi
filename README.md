@@ -19,7 +19,7 @@
   <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target="_blank">
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </a>
   <a href='https://vuejs.org' target="_blank">
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> </a>
+<img src="https://img.shields.io/badge/svelte%20-%23ff5500.svg?&style=for-the-badge&logo=svelte&logoColor=white"/> </a>
   <a href='https://tailwindcss.com' target="_blank">
     <br>
 <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a>
