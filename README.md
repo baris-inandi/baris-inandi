@@ -9,4 +9,5 @@
 <a href='https://www.rust-lang.org/' target="_blank"><img src="https://img.shields.io/badge/-Rust-ef4a00?style=for-the-badge&logo=rust&logoColor=ffffff"/></a>
 <a href='https://go.dev' target="_blank"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
 <a href='https://soliditylang.org/' target="_blank"><img src="https://img.shields.io/badge/-solidity-627eea?style=for-the-badge&logo=solidity&logoColor=ffffff"/></a>
+<a href='https://kotlinlang.org/' target="_blank"><img src="https://img.shields.io/badge/java-%235283A2.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 <a href='https://kotlinlang.org/' target="_blank"><img src="https://img.shields.io/badge/kotlin-%238052FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
